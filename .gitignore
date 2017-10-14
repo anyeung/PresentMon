@@ -13,6 +13,9 @@
 # Visual Studio 2015 cache/options directory
 .vs/
 
+# Visual Studio Code options directory
+.vscode/
+
 # Visual C++ cache files
 ipch/
 *.aps
